@@ -1,0 +1,59 @@
+# Lazy — Generative Engine Optimization Map
+
+> A מוצרי מרצ'נדייז ודמויות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://lazy-859eac50.zappy5.app
+גלו מוצרי מרצ'נדייז ייחודיים עם דמות Lazy. הדפסה על מוצרים איכותית, מתנות מקוריות ודמויות מצויירות לאספנים ומשפחות.
+
+### המוצרים שלנו
+https://lazy-859eac50.zappy5.app/products
+גלו את המגוון המלא של הדפסה על מוצרים עם דמות Lazy - ספלים, חולצות, דמויות אספנות ועוד. מתנות מקוריות עם דמות Lazy לכל המשפחה.
+
+### אודות
+https://lazy-859eac50.zappy5.app/about
+למדו על הסיפור מאחורי Lazy ודמות Lazy המקורית. התשוקה שלנו להדפסה על מוצרים איכותית ומוצרי מרצ'נדייז ייחודיים.
+
+### צור קשר
+https://lazy-859eac50.zappy5.app/contact
+יש לכם שאלות על הדפסה על מוצרים או מוצרי מרצ'נדייז Lazy? צרו איתנו קשר ונשמח לעזור. זמינים לכל שאלה ובקשה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://lazy-859eac50.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lazy-859eac50.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lazy-859eac50.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Lazy
+Lazy is a business in the מוצרי מרצ'נדייז ודמויות industry.
+
+## Target Audience
+- אספני גיקים
+- משפחות צעירות
+- משפיעני תרבות פופ
+
+## Industry
+מוצרי מרצ'נדייז ודמויות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://lazy-859eac50.zappy5.app/sitemap.xml
+- **Robots.txt**: https://lazy-859eac50.zappy5.app/robots.txt
